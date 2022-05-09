@@ -8,8 +8,13 @@
 ##  Requirements:
 * Python 3.7
 * install Tkinter library if not installed
-* install opeen cv library if not installed
-* Works across all Windows Operating System.
+```
+pip install tk
+```
+* install open cv library if not installed
+```
+pip install opencv-python
+```
 ## Manual:
 * [User Manual](User_manual.md)
 ## Preview:
